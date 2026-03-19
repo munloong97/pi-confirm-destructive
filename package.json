@@ -1,0 +1,12 @@
+{
+  "name": "pi-confirm-destructive-ext",
+  "version": "1.0.0",
+  "description": "Blocks dangerous commands with user confirmation prompt",
+  "main": "confirm-destructive.ts",
+  "keywords": ["pi", "extension", "safety", "confirm", "destructive"],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}

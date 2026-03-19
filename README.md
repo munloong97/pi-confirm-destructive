@@ -1,4 +1,4 @@
-# pi-confirm-destructive-ext
+# pi-confirm-destructive
 
 A Pi extension that blocks potentially destructive commands and asks for user confirmation.
 
